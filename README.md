@@ -1,1 +1,1 @@
-I write code for a living.
+I write codes.
