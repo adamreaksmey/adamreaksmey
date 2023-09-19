@@ -3,10 +3,10 @@
 </p><br>
 <div style="display:flex">
   <div>
-      In the realm of code, where logic does reign,<br>
-      A programmer sits, his mind a domain.<br>
-      With lines of text, he weaves his creation,<br>
-      A symphony of algorithms, a digital sensation.<br><br>
+    In the realm of code, where logic does reign,<br>
+    A programmer sits, his mind a domain.<br>
+    With lines of text, he weaves his creation,<br>
+    A symphony of algorithms, a digital sensation.<br><br>
   </div>
   <div>
     He types away with fingers nimble,<br>
@@ -20,6 +20,8 @@
     From dawn till dusk, he battles away,<br>
     In a world of functions and arrays.<br><br>
   </div>
+</div>
+<div style="display:flex">
   <div>
     He dreams in code, his mind does wander,<br>
     Through nested loops, his thoughts meander.<br>
@@ -38,12 +40,14 @@
     His wit is sharp, his humor sublime,<br>
     In the world of programmers, he's one of a kind.<br><br>
   </div>
-<div>
-  So raise a toast to the programmer's plight,<br>
-To late-night coding sessions and debugging fights.<br>
-For in the realm of code, where logic does reign,<br>
-The programmer's wit shall forever entertain.<br>
 </div>
+<div style="display:flex">
+  <div>
+    So raise a toast to the programmer's plight,<br>
+    To late-night coding sessions and debugging fights.<br>
+    For in the realm of code, where logic does reign,<br>
+    The programmer's wit shall forever entertain.<br>
+  </div>
 </div>
 
 
