@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Heart Animation">
+</p><br>
 In the realm of code, where logic does reign,<br>
 A programmer sits, his mind a domain.<br>
 With lines of text, he weaves his creation,<br>
@@ -26,10 +29,6 @@ So raise a toast to the programmer's plight,<br>
 To late-night coding sessions and debugging fights.<br>
 For in the realm of code, where logic does reign,<br>
 The programmer's wit shall forever entertain.<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Heart Animation">
-</p>
 
 
 
