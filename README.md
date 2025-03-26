@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Adam (aka Sopheak) 👋</h1>
+<h1 align="center">Hey there, I'm Adam 👋</h1>
 
 <p align="center">
   <em>Full-stack Web Developer | Web3 Enthusiast | Async Team Player</em>
