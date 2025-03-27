@@ -27,7 +27,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,java,vue,angular,tailwind,figma,postgres,mongodb,solidity" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,java,spring,vue,angular,tailwind,figma,postgres,mongodb,solidity" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 | **Digital Government Platform** | _Internal_ | React, NestJS, GraphQL |
 | **Web3 Integration Hub** | _Private_ | Wagmi, RainbowKit, Solidity |
 | **ScoreRead** *(Book summary platform)* | [scoreread.com](https://scoreread.com) | Next.js, Tailwind, CMS |
-| **Event Registration System** | _Internal_ | QR Scan, NestJS, Prisma |
+| **Event Registration System** | _Internal_ | QR Scan, NestJS, Postgres |
 
 > 🔍 DM me for access to private repos & case studies
 
