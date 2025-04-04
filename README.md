@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔧 I specialize in **React**, **Vue**, **Angular**, **Node.js**, and **TypeScript**  
+- 🔧 I specialize in **React**, **Vue**, **Angular**, **Node.js**, **Java** and **TypeScript**  
 - 🏗️ I focus on **scalable architecture**, **clean code**, and **long-term maintainability**
 - 🌐 I’ve built:
   - Learning platforms
