@@ -55,8 +55,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamreaksmey&show_icons=true&theme=react" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamreaksmey&layout=compact&theme=react" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adamreaksmey&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamreaksmey&layout=compact&theme=react" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
