@@ -12,15 +12,15 @@
 
 ## 🚀 About Me
 
-- 🔧 I specialize in **React**, **Vue**, **Angular**, **Node.js**, **Java** and **TypeScript**  
-- 🏗️ I focus on **scalable architecture**, **clean code**, and **long-term maintainability**
+- 🔧 Specializes in Web Application Development, Front to Back, Libraries, Tools & Scriptings.
+- 🏗️ Focuses on **scalable architecture**, **clean code**, and **long-term maintainability**
 - 🌐 I’ve built:
   - Learning platforms
   - Admin panels
   - Custom CMSs
   - Decentralized apps (DApps)
-- 🔒 I care deeply about **performance** and **security**
-- 🌍 I thrive in **async teams** and love working across **time zones**
+- 🔒 **performance** and **security** are my top concerns.
+- 🌍 Thrives in **async teams** and love working across **time zones**
 
 ---
 
