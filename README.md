@@ -7,7 +7,7 @@
 ## About Me
 
 I’ve worked across the stack, on systems big and small — from simple tools to complex platforms.  
-I care about clarity, reliability, and solving real problems.  
+I care about clarity, scalability, reliability, and solving real problems.  
 If it needs to be built, I’ll figure it out.
 
 ---
@@ -18,7 +18,7 @@ If it needs to be built, I’ll figure it out.
 - Public-facing apps  
 - APIs and backends  
 - Web3 integrations  
-- Admin tools  
+- Admin tools
 
 > Some are private. Feel free to reach out if you're curious.
 
