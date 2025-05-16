@@ -12,14 +12,6 @@ If it needs to be built, I’ll figure it out.
 
 ---
 
-## Things I’ve Used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,nextjs,nodejs,nestjs,java,spring,mysql,postgres,mongodb" />
-</p>
-
----
-
 ## Projects
 
 - Internal platforms  
