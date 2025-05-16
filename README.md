@@ -1,73 +1,47 @@
-<h1 align="center">Hey there, I'm Adam 👋</h1>
+<h1 align="center">Hi, I'm Adam</h1>
 
-<p align="center">
-  <em>Full-stack Web Developer | Web3 Enthusiast | Async Team Player</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Clean+Code+%E2%9C%94;Scalable+Architecture+%E2%9C%94;Web3+Integrations+%E2%9C%94;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<p align="center"><em>I build software — all kinds of it.</em></p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔧 Specializes in Web Application Development, Front to Back, Libraries, Tools & Scriptings.
-- 🏗️ Focuses on **scalable architecture**, **clean code**, and **long-term maintainability**
-- 🌐 I’ve built:
-  - Learning platforms
-  - Admin panels
-  - Custom CMSs
-  - Decentralized apps (DApps)
-- 🔒 **performance** and **security** are my top concerns.
-- 🌍 Thrives in **async teams** and love working across **time zones**
+I’ve worked across the stack, on systems big and small — from simple tools to complex platforms.  
+I care about clarity, reliability, and solving real problems.  
+If it needs to be built, I’ll figure it out.
 
 ---
 
-## 🧰 Tech Stack
+## Things I’ve Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,js,ts,vue,angular,react,nuxtjs,nextjs,nodejs,nestjs,java,spring,mysql,postgres,mongodb,solidity" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,nextjs,nodejs,nestjs,java,spring,mysql,postgres,mongodb" />
 </p>
 
 ---
 
-## 📂 Projects & Contributions
+## Projects
 
-| 💻 Project | 🔗 Link | ⚙️ Stack |
-|-----------|--------|----------|
-| **Digital Government Platform** | _Internal_ | React, NestJS, GraphQL |
-| **Web3 Integration Hub** | _Private_ | Wagmi, RainbowKit, Solidity |
-| **Event Registration System** | _Internal_ | QR Scan, NestJS, Postgres |
+- Internal platforms  
+- Public-facing apps  
+- APIs and backends  
+- Web3 integrations  
+- Admin tools  
 
-> 🔍 DM me for access to private repos & case studies
+> Some are private. Feel free to reach out if you're curious.
 
 ---
 
-## 📫 Let’s Connect
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ros-sopheak-adam-46ba5723a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:adaminiature@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://a-thedeveloper.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Visit-ScoreRead.com-%23007acc?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://a-thedeveloper.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-%23007acc?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamreaksmey&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamreaksmey&layout=compact&theme=react" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</p>
+<p align="center"><i>Quietly building. Always learning.</i></p>
 
 ![](https://komarev.com/ghpvc/?username=adamreaksmey)
-[![committers.top badge](https://user-badge.committers.top/cambodia_private/adamreaksmey.svg)](https://user-badge.committers.top/cambodia_private/adamreaksmey)
-
-
----
-
-> ⚡ “Code is poetry — make yours worth reading.”
-
