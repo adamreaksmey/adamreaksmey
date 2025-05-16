@@ -31,6 +31,5 @@ If it needs to be built, I’ll figure it out.
   <a href="mailto:adaminiature@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://a-thedeveloper.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-%23007acc?style=for-the-badge&logo=vercel" /></a>
 </p>
----
 
 ![](https://komarev.com/ghpvc/?username=adamreaksmey)
