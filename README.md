@@ -1,26 +1,29 @@
-<h1 align="center">Hi, I'm Adam</h1>
+<h1 align="center">Hi, I'm Adam 👋</h1>
 
-<p align="center"><em>I build software — all kinds of it.</em></p>
+<p align="center"><em>I build software — all kinds of it, from the ground up.</em></p>
 
 ---
 
 ## About Me
 
-I’ve worked across the stack, on systems big and small — from simple tools to complex platforms.  
-I care about clarity, scalability, reliability, and solving real problems.  
-If it needs to be built, I’ll figure it out.
+I’m a software engineer who loves tackling challenges across the stack — from small utilities to large-scale platforms.  
+I focus on **clarity**, **scalability**, and **reliability**, always aiming to solve **real-world problems**.  
+
+Whether it’s a tricky backend system, a slick frontend interface, or an internal tool that improves workflows,  
+if it needs to be built, I’ll figure out how.
 
 ---
 
-## Projects
+## Projects & Work
 
-- Internal platforms  
-- Public-facing apps  
-- APIs and backends  
-- Web3 integrations  
-- Admin tools
+Here’s a glimpse of what I work on:
 
-> Some are private. Feel free to reach out if you're curious.
+- **Internal platforms** – tools that make teams more productive  
+- **Public-facing apps** – polished experiences for users  
+- **APIs & backends** – scalable, maintainable services  
+- **Admin tools** – intuitive dashboards for complex workflows  
+
+> Some projects are private. Curious? Reach out — I’m happy to share more.
 
 ---
 
