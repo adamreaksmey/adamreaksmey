@@ -54,7 +54,7 @@ Here’s a glimpse of what I’m building:
 </p>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=adamreaksmey&color=brightgreen)
+ ![](https://komarev.com/ghpvc/?username=adamreaksmey)
 </p>
 
 ---
