@@ -53,9 +53,9 @@ Here’s a glimpse of what I’m building:
   <a href="https://a-thedeveloper.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-%23007acc?style=for-the-badge&logo=vercel" /></a>
 </p>
 
-<p align="center">
+
  ![](https://komarev.com/ghpvc/?username=adamreaksmey)
-</p>
+
 
 ---
 
