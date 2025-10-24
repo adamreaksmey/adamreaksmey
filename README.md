@@ -89,6 +89,7 @@ Whether it's a microservice handling millions of requests, a dashboard for compl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adamreaksmey&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Weekly Coding Stats" />
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
