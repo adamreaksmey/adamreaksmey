@@ -87,9 +87,8 @@ Whether it's a microservice handling millions of requests, a dashboard for compl
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamreaksmey&theme=default" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adamreaksmey&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Weekly Coding Stats" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
