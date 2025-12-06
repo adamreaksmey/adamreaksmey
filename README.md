@@ -1,115 +1,244 @@
-<h1 align="center">Hi, I'm Adam 👋</h1>
+# 🔥 WELCOME TO ADAM'S CYBERSPACE 🔥
 
-<p align="center">
-  <em>Full-stack engineer building production systems that scale — from internal tools to platforms serving hundreds of thousands of users.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ros-sopheak-adam-46ba5723a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:adaminiature@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://a-thedeveloper.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-%23007acc?style=for-the-badge&logo=vercel" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adamreaksmey" alt="Profile views" />
-  <a href="https://user-badge.committers.top/cambodia_private/adamreaksmey"><img src="https://user-badge.committers.top/cambodia_private/adamreaksmey.svg" alt="Top committer badge" /></a>
-</p>
+```
+ _____ _____ _____ _____
+|  _  |     |  _  |     |
+|     |  |  |     | | | |
+|__|__|____/|__|__|_|_|_|
+    THE DEVELOPER
+```
 
 ---
 
-## 🎯 What I Do
+<div align="center">
 
-I build **reliable, maintainable software** across the full stack — backend APIs, polished frontends, DevOps pipelines, and everything in between. I care deeply about:
+### ✨ ~_~_~ FULL-STACK CODE WARRIOR ~_~_~ ✨
 
-- **Scalable architecture** that grows with your needs
-- **Clean, readable code** that teams can maintain
-- **Developer experience** — tools that make work easier
-- **Production reliability** — systems that just work
+**🌟 Building Production Systems Since 2020 🌟**
 
-Whether it's a microservice handling millions of requests, a dashboard for complex workflows, or a CLI tool that saves hours of manual work — I love the challenge of building it right.
+![](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage)
+![](https://img.shields.io/badge/CODING-24/7-red?style=for-the-badge&logo=codeigniter)
+![](https://img.shields.io/badge/COFFEE-REQUIRED-brown?style=for-the-badge&logo=buy-me-a-coffee)
 
----
-
-## 🛠 Tech Stack
-
-**Backend & APIs**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-E74430?style=flat-square&logo=lumen&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend Frameworks**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-
-**DevOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## 🎸 **UNDER CONSTRUCTION** 🚧
 
-- **Enterprise platforms** — internal tools that make teams 10x more productive
-- **Public-facing applications** — polished UX for end users at scale
-- **Robust APIs** — RESTful services designed for performance and maintainability
-- **Admin dashboards** — complex data visualizations made intuitive
-- **DevOps automation** — CI/CD pipelines and infrastructure as code
-
-> 💼 Many projects are private/work-related. [Check my portfolio](https://a-thedeveloper.vercel.app) or reach out to see more!
+<marquee behavior="scroll" direction="left">🔥 NEW PROJECTS COMING SOON! 🔥 CHECK BACK OFTEN! 🔥 LAST UPDATED: 2025 🔥</marquee>
 
 ---
 
-## 📈 GitHub Stats
+<h2>💾 <strong>ABOUT THIS SITE</strong> 💾</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamreaksmey&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+<div style="
+    border: 3px solid #000;
+    padding: 1em;
+    max-width: 400px;
+    font-family: monospace;
+    white-space: pre;
+">
+WELCOME TO MY DIGITAL DOMAIN!
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamreaksmey&theme=default&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+I code stuff. Lots of stuff.
+From backend APIs to slick UIs.
+If it runs on electricity,
+I can probably build it 😎
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamreaksmey&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adamreaksmey&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Weekly Coding Stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adamreaksmey&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+**WEBMASTER:** Adam (aka The Code Guy)  
+**SITE BEST VIEWED IN:** Netscape Navigator 4.0+ or IE 5.0+  
+**SCREEN RESOLUTION:** 800x600 or higher  
+**VISITOR #:** ![](https://komarev.com/ghpvc/?username=adamreaksmey&color=brightgreen)
 
 ---
 
-## 💬 Let's Connect
+## 🎯 **WHAT I DO** (aka My Skillz)
 
-Open to interesting opportunities, collaborations, or just talking tech.
+<table>
+<tr>
+<td width="50%">
 
-📧 **Email:** [adaminiature@gmail.com](mailto:adaminiature@gmail.com)  
-💼 **LinkedIn:** [Adam](https://www.linkedin.com/in/ros-sopheak-adam-46ba5723a)  
-🌐 **Portfolio:** [a-thedeveloper.vercel.app](https://a-thedeveloper.vercel.app)
+### ⚡ THE GOODS ⚡
+
+- ✅ Scalable Architecture
+- ✅ Clean Code (No Spaghetti!)
+- ✅ DevOps Magic
+- ✅ 99.9% Uptime
+- ✅ Team Player
+- ✅ Coffee-Powered
+
+</td>
+<td width="50%">
+
+### 🎮 SPECIALTIES 🎮
+
+- 🔹 Backend APIs
+- 🔹 Frontend Polish
+- 🔹 Microservices
+- 🔹 Admin Dashboards
+- 🔹 CI/CD Pipelines
+- 🔹 Performance Tuning
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <em>"The best code is the code that doesn't need to be rewritten."</em>
-</p>
+## 🛠️ **MY ARSENAL** 🛠️
+
+### >> BACKEND WEAPONS <<
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+
+### >> FRONTEND POWERS <<
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=nuxt.js&logoColor=white)
+
+### >> DATABASE DOMINATION <<
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white)
+
+### >> DEVOPS TOOLKIT <<
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🚀 **CURRENT PROJECTS** 🚀
+
+```
+[████████████████████----] 80% - Enterprise Platform v2.0
+[████████████------------] 60% - API Gateway Rewrite
+[████████████████████████] 100% - DevOps Automation Suite ✓
+```
+
+- 🎯 **Enterprise Tools** - Making teams 10x more productive
+- 🌐 **Public Apps** - Serving 100k+ users daily
+- 🔌 **REST APIs** - Fast, reliable, scalable
+- 📊 **Admin Dashboards** - Complex data made simple
+- ⚙️ **CI/CD Magic** - Automated deployments
+
+> **NOTE:** Most projects are private/confidential! Hit me up to see the good stuff! 📧
+
+---
+
+## 📈 **STATS & ACHIEVEMENTS** 📈
+
+<div align="center">
+
+### ~~ GITHUB POWER LEVEL ~~
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamreaksmey&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=ffff00&text_color=00ff00)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adamreaksmey&theme=radical&hide_border=true&background=000000&ring=00ff00&fire=ffff00&currStreakLabel=00ff00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamreaksmey&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)
+
+</div>
+
+---
+
+## 🏆 **TROPHY CASE** 🏆
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adamreaksmey&theme=darkhub&no-frame=true&row=1&column=7)
+
+![Committers Badge](https://user-badge.committers.top/cambodia_private/adamreaksmey.svg)
+
+</div>
+
+---
+
+## 📬 **CONTACT ME** 📬
+
+<div align="center">
+
+### ✨ LET'S CONNECT IN CYBERSPACE! ✨
+
+[![Email](https://img.shields.io/badge/📧_EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adaminiature@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ros-sopheak-adam-46ba5723a)
+[![Portfolio](https://img.shields.io/badge/🌐_MY_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://a-thedeveloper.vercel.app)
+
+**📧 EMAIL:** adaminiature@gmail.com  
+**💼 LINKEDIN:** [Adam's Professional Network](https://www.linkedin.com/in/ros-sopheak-adam-46ba5723a)  
+**🌐 PORTFOLIO:** [a-thedeveloper.vercel.app](https://a-thedeveloper.vercel.app)
+
+</div>
+
+---
+
+## 🎵 **GUESTBOOK** 🎵
+
+<div align="center">
+
+<div style="
+    border: 3px solid #000;
+    padding: 1em;
+    max-width: 450px;
+    font-family: monospace;
+    white-space: pre;
+">
+Thanks for visiting my page!
+Sign my guestbook! (JK, just email)
+
+Open to: Jobs | Collabs | Chat
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 **CODE QUOTE OF THE DAY** 💻
+
+_"The best code is the code that doesn't need to be rewritten."_  
+~ Adam, 2025
+
+---
+
+<marquee behavior="alternate" direction="right" scrollamount="3">⭐ YOU ARE VISITOR NUMBER ∞ ⭐</marquee>
+
+**OPTIMIZED FOR:**  
+![](https://img.shields.io/badge/Netscape-Navigator-blue?style=plastic)
+![](https://img.shields.io/badge/Internet-Explorer-lightblue?style=plastic)
+![](https://img.shields.io/badge/Resolution-800x600-green?style=plastic)
+
+---
+
+<sub>© 2025 Adam's Cyberspace | All Rights Reserved | Best Viewed With Eyes</sub>
+
+![](https://img.shields.io/badge/⚡-POWERED_BY_CAFFEINE-brown?style=plastic)
+![](https://img.shields.io/badge/🎵-NOW_PLAYING:_MIDI_MUSIC-purple?style=plastic)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+█▀▀ █▀█ █▀▄ █▀▀   █▀█ █▄ █
+█▄▄ █▄█ █▄▀ ██▄   █▄█ █ ▀█
+```
+
+**[BACK TO TOP ⬆️](#-welcome-to-adams-cyberspace-)**
