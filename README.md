@@ -1,8 +1,8 @@
 # Hey, I'm Adam 👋
 
-I'm a full-stack engineer who loves building things that are reliable, thoughtful, and actually enjoyable to use. I work across the whole stack — from backend APIs to polished frontends — and I care just as much about the experience of maintaining code as I do about shipping it.
+I specialize in distributed systems and enjoy challenging conventional stack choices. I push technologies to their limits to understand how far they can truly go.
 
-When I'm not deep in a problem, I'm probably thinking about how to make the next solution a little cleaner.
+Although I work across the full stack, my core strength lies in backend engineering, where I tackle problems such as concurrency, race conditions, caching architectures, sharding strategies, and large-scale performance optimization.
 
 ---
 
