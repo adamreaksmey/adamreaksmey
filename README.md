@@ -2,7 +2,7 @@
 
 I specialize in distributed systems and enjoy challenging conventional stack choices. I push technologies to their limits to understand how far they can truly go.
 
-Although I work across the full stack, my core strength lies in backend engineering, where I tackle problems such as concurrency, race conditions, caching architectures, sharding strategies, and large-scale performance optimization.
+While I work across the full stack, my core strength lies in backend engineering and system architecture. I design and build scalable systems while tackling complex problems such as concurrency, race conditions, caching architectures, sharding strategies, and large-scale performance optimization.
 
 ---
 
